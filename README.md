@@ -25,6 +25,9 @@ Request :
 Fetch booking info
 Get : http://localhost:8081/v1/booking/{id}
 
+Database url :
+http://localhost:8081/h2
+
 Technical specification :
 Spring boot
 JPA
