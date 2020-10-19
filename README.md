@@ -1,8 +1,10 @@
 # HotelBooking
 
 Available api :
+
 Create booking checks for available room, if room is available it does the booking
 Post : http://localhost:8081/v1/booking/
+
 Request :
 {
 	"name" : "XYZ",
@@ -18,6 +20,7 @@ Request :
 	},
 	"totalAmount" : 200.05
 }
+
 
 Fetch booking info
 Get : http://localhost:8081/v1/booking/{id}
